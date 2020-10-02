@@ -1,10 +1,26 @@
-# WPOSS
+# Notes App with Node, Mongodb
+This is a software to manage simple Notes on the web using Javascript Technologies like Nodejs, Mongodb, and so on.
+This app can:
+- create/read/update/delete three transferencias, depositos y retiros
+- Allows a user to do log in and save his data
 
+# Screenshot
+![](docs/tasks.png)
 
-prueba para la empresa wposs
+# Environment Variables
+This app needs the following environment Variables
+* `MONGODB_HOST` this is the Mongodb URI string: localhost:
+* `MONGODB_DATABASE` Mongodb database name: banco
+* `NODE_ENV` node environment
 
-instalar base de datos: banco en mongodb
-ingresar a la carpeta creada desde el cmd
-comprobar que se este ejecutando la base de datos mediante el comando mongod en el cmd
-para ejecutar el proyecto desde el cmd se ejecuta la linea npm run dev
-en el navegador colocar localhost:4000 para visualizar la pagina
+# Docker
+you can run a container for development
+```
+npm install 
+docker-compose up 
+```
+
+# Recursos
+* [Materia Bootswatch](https://www.bootstrapcdn.com/bootswatch/)
+* [CSS Background uiGradients](https://uigradients.com/#Dull)
+
