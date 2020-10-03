@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5f77859d4397d3072cce5711" }, "email" : "admin@localhost", "estado" : "activo", "cc" : "123456", "cuenta" : "1000000", "fecha" : { "$date" : "2020-10-02T19:55:09.988+0000" }, "password" : "$2a$10$Gyy7hI3uLlheFDzR0OgJJeooEh7yAfzAiNAsF3m2rL6BajP0zjRKO", "__v" : 0 },
+{ "_id" : { "$oid" : "5f7785df33616329c08adc9d" }, "email" : "besarca12@gmail.com", "password" : "$2a$10$x.g.hlIews8Aj8HNYj560egxdPc7D3vG7aItRem04.Ps/WQ70LUEC", "fecha" : { "$date" : "2020-10-02T19:56:15.102+0000" }, "__v" : 0 }

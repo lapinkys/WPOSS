@@ -1,0 +1,2 @@
+{ "_id" : "5hau1rS8BL9FuUDw00KoZaaWjIVRufKF", "expires" : { "$date" : "2020-10-16T00:37:53.663+0000" }, "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"flash\":{}}" },
+{ "_id" : "pw2yYjq1jwg_d_FYPQyP6z3iZueh9f7d", "expires" : { "$date" : "2020-10-16T20:52:54.627+0000" }, "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"passport\":{\"user\":\"5f7785df33616329c08adc9d\"}}" }
