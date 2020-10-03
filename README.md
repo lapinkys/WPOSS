@@ -1,21 +1,20 @@
-# Notes App with Node, Mongodb
-This is a software to manage simple Notes on the web using Javascript Technologies like Nodejs, Mongodb, and so on.
-This app can:
-- create/read/update/delete three transferencias, depositos y retiros
-- Allows a user to do log in and save his data
-
+# aplicación tipo bancario con Node, Mongodb
+Se utilizaron las siguientes tecnologías Javascript, Nodejs, Mongodb, and
+- create/read/update/delete para 3 módulos transferencias, depositos y retiros
+- login y registro de usuarios
 
 # Screenshot
 ![](docs/tasks.png)
 
-# Environment Variables
-This app needs the following environment Variables
+# Variables 
+Las siguientes son las variables a configurar
 * `MONGODB_HOST` this is the Mongodb URI string: localhost:
 * `MONGODB_DATABASE` Mongodb database name: banco
 * `NODE_ENV` node environment
 
 # Docker
-you can run a container for development
+
+Para que el archivo funcione se debe instalar previamente
 ```
 npm install 
 docker-compose up 
